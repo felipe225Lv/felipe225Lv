@@ -8,7 +8,7 @@
 <pre> 
   💻 Soy un Desarrollador Full Stack y un Ingeniero de Software en formación 
   📚 Actualmente estudio Ingeniería de Software en la Universidad EAM 
-  📝 Tengo un gran interés en la Inteligencia Artificial y el Aprendizaje Automático 
+  📝 Tengo un gran interés en la Inteligencia Artificial
   🔭 Trabajo en proyectos de desarrollo backend y bases de datos 
   🌱 Aprendiendo sobre Visión por Computador y Machine Learning 
   🌟 Lenguajes principales: Java, Python 
