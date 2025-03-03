@@ -10,7 +10,7 @@
   📚 Actualmente estudio Ingeniería de Software en la Universidad EAM 
   📝 Tengo un gran interés en la Inteligencia Artificial
   🔭 Trabajo en proyectos de desarrollo backend y bases de datos 
-  🌱 Aprendiendo sobre Visión por Computador y Machine Learning 
+  🌱Aprendiendo sobre desarrollo backend y frontend de aplicaciones web
   🌟 Lenguajes principales: Java, Python 
   🤔 Actualmente estoy en <b>Prácticas</b>. 
 </pre>
@@ -31,8 +31,19 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 
 ## GitHub Stats 📈 :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipe225Lv&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Felipe Lopez GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe225Lv&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe225Lv&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
+
+<h3 align="left">Connect with me</h3>
+
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/cfelipe2005lv)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lopez-9aa117328/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/its.felipelv?igsh=MTQ2amJid2R6Mnhsdg%3D%3D&utm_source=qr)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
