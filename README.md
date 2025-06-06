@@ -6,17 +6,24 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 <pre> 
-  💻 Soy un Desarrollador Full Stack y un Ingeniero de Software en formación 
-  📚 Actualmente estudio Ingeniería de Software en la Universidad EAM 
-  📝 Tengo un gran interés en la Inteligencia Artificial
-  🔭 Trabajo en proyectos de desarrollo backend y bases de datos 
-  🌱Aprendiendo sobre desarrollo backend y frontend de aplicaciones web
-  🌟 Lenguajes principales: Java, Python 
-  🤔 Actualmente estoy en <b>Prácticas</b>. 
+💻 Desarrollador Full Stack en formación
+🎓 Estudiante de Ingeniería de Software en la Universidad EAM
+🤖 Apasionado por la Inteligencia Artificial y el desarrollo backend
+🚀 Actualmente participando en proyectos de desarrollo backend, frontend y bases de datos
+📚 Aprendiendo sobre microservicios, arquitectura de software y buenas prácticas
+🛠️ Tecnologías principales: Java, Spring Boot, Python, FastAPI
+💼 En prácticas profesionales, aplicando conocimientos en entornos reales
 </pre>
 
-### 🛠️ Languages and Tools:
+### 📚 Actualmente aprendiendo
 
+- Docker y contenedores
+- Angular para desarrollo frontend moderno
+- Mejores prácticas con Git y GitHub
+- Patrones de diseño de software
+- Pruebas con JUnit y Postman
+
+### 🛠️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
