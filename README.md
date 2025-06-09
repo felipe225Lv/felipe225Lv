@@ -43,10 +43,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 
-## GitHub Stats 📈 :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipe225Lv&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Felipe Lopez GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe225Lv&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe225Lv&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
-
 <h3 align="left">Connect with me</h3>
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/cfelipe2005lv)
